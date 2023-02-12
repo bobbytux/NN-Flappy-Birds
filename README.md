@@ -1,5 +1,5 @@
 # NN-Flappy-Birds
-Microsoft Visual Studio 2022 C++ &amp; SDL2 - Flappy Birds with NN and genetic selection
+Microsoft Visual Studio 2022 © C++ &amp; SDL2 - Flappy Birds with NN and genetic selection
 
 This is an implementation of a challenge from Mr Daniel Shiffman : https://www.youtube.com/watch?v=c6y21FkaUqw
 
